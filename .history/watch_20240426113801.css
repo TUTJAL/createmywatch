@@ -1,0 +1,7 @@
+*, *::after,*::before{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background: linear-gradient(to right,rgb(2));
+}
